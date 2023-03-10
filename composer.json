@@ -1,0 +1,31 @@
+{
+    "name": "ahmetsabri/fatih-laravel-search",
+    "description": "A Laravel package for adding search functionality to models.",
+    "type": "library",
+    "keywords": [
+        "laravel",
+        "search",
+        "searchable"
+    ],
+    "homepage": "https://github.com/ahmetsabri/fatih-laravel-search",
+    "autoload": {
+        "psr-4": {
+            "Ahmetsabri\\FatihLaravelSearch\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ahmetsabri",
+            "email": "ahmedmahfouzjob@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/ahmetsabri/fatih-laravel-search.git"
+        }
+    ]
+}

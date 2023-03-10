@@ -20,7 +20,9 @@
         }
     ],
     "require": {
-        "php": "^8.0"
+        "php": "^8.0",
+        "illuminate/support": "^8.0",
+        "illuminate/database": "^8.0"
     },
     "repositories": [
         {

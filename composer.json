@@ -27,5 +27,6 @@
             "type": "vcs",
             "url": "https://github.com/ahmetsabri/fatih-laravel-search.git"
         }
-    ]
+    ],
+    "license": "MIT"
 }

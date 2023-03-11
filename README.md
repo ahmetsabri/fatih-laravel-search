@@ -1,4 +1,4 @@
-# fatih-laravel-search
+# Fatih Laravel Search
 A laravel package to search via your models .
 
 installation : 

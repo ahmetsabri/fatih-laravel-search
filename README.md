@@ -3,7 +3,7 @@ A laravel package to search via your models .
 
 installation : 
 
-`composer required ahmetsabri/fatih-laravel-search`
+`composer require ahmetsabri/fatih-laravel-search`
 
 Usage :
 

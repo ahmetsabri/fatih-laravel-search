@@ -2,9 +2,9 @@
 A laravel package to search via your models .
 
 installation : 
-
-`composer require ahmetsabri/fatih-laravel-search`
-
+```
+composer require ahmetsabri/fatih-laravel-search
+```
 Usage :
 
 - use `Searchable` trait in your model
